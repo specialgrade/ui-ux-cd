@@ -9,15 +9,10 @@ In this repository, I have compiled all my UI/UX design projects, including thos
 │   │   ├── 📂 wireframes      # Low-fidelity wireframes
 │   │   ├── 📂 prototypes      # Interactive prototypes
 │   │   ├── 📂 final_designs   # High-fidelity UI designs
-│   ├── 📂 freelance           # UI/UX projects for freelance clients
-│   │   ├── 📂 dashboards      # Admin panels and dashboards
-│   │   ├── 📂 mobile_apps     # Mobile UI designs
-│   │   ├── 📂 web_designs     # Website UI designs
 │   ├── 📂 personal_projects   # Self-initiated design projects
 │   │   ├── 📂 concept_designs # Experimental and concept UI designs
 │   │   ├── 📂 redesigns       # UI redesigns of existing apps
-├── 📄 README.md               # Project documentation
-└── 📄 LICENSE                 # License information
+└── 📄 README.md               # Project documentation
 ```
 
 ## Tech Stack Used
